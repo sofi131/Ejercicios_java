@@ -1,3 +1,4 @@
+//5. Escribir un programa en Java que dado un número de 3 cifras muestre todas sus cifras por separado
 import java.util.Scanner;
 
 public class multiplos {
